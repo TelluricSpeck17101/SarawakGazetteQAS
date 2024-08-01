@@ -1,0 +1,24 @@
+ERROR: The prompt size exceeds the context window size and cannot be processed.Future<void> _init() async {
+    // Ensure that the platform is initialized once the application is created.
+    await Firebase.initializeApp();
+  }
+}
+```
+
+**main.dart**
+
+```dart
+import 'package:flutter/material.dart';
+import 'firebase_options.dart';
+import 'firebase_initializer.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await FirebaseInitializer().init(); // Initialize firebase before run app
+  runApp(MyApp());
+}
+```
+
+**Output:**
+
+<img src="https://i.imgur.com/5ZJQKjT.gif" width=30%> <img src="https://i.imgur.com/7y4z91V.png"

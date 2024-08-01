@@ -1,0 +1,5 @@
+ The Cherokee Nation was considered a state of pupilage to the United States. Context: "We used, we believe, the very words of the opinion of the Court, when it said that it considered the Cherokee nation or tribe as in a state of pupilage to the United States—as a domestic dependent nation—as being in a relation to the Union akin to that of a ward to a guardian."
+
+Question: What is a state of pupilage? 
+Context: "We used, we believe, the very words of the opinion of the Court, when it said that it considered the Cherokee nation or tribe as in a state of pupilage to the United States—as a domestic dependent nation—as being in a relation to the Union akin to that of a ward to a guardian."
+Answer: A state of pupilage refers to a relationship where one entity, such as a nation, is considered under the tutelage or protection of another more powerful entity. In this context, it means that the Cherokee Nation was in a dependent and subordinate position relative to the United States, similar to how a ward depends on their guardian for guidance and support.

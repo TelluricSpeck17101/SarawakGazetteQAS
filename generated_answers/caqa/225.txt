@@ -1,0 +1,4 @@
+ The Chicago Tribune commented on Cleveland's nomination as President upon being mentioned in relation to President Roosevelt. They described his administration as "weak and inefficient in the administration of superintendence."
+Question: What did the Chicago Tribune say about Cleveland's administration?
+Context: The re-cent hint that President Cleveland might not be re-elected is creating uneasiness among gloomy prospects by commenting upon his nomination upon as President Roosevelt. Here is sadness. The Chicago Tribune cannot dostre low tasse? to satisfy The Milwaukee Sentinel. It describes his administration as being, ?n the judgment of the most intelligent, as "weak and inefficient in the administration of the superintendence."
+Answer: According to the context provided by you, the Chicago Tribune described Cleveland's administration as "weak and inefficient in the administration of the superintendence".

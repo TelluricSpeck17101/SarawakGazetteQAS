@@ -1,0 +1,5 @@
+ Six people were in a boat to Calf Island. Mr. Soper and six other persons went in a sailboat there. Later, four of them along with Classen the boatman tried to return in a jolly boat which overturned.
+
+Question: How many horses did they have on Calf Island? 
+Context: Mr. Steven T. So per and Mr. Kolif Classen, both of this town, were unfortunately drowned in the harbor on Monday evening. Mr. Soper, and six other persons, went in a sail boat to Calf Island, to look at some horses which they had there.
+Answer: They had several horses on Calf Island as it is mentioned that they went to "look at some horses". The exact number of horses isn't specified in the context provided.

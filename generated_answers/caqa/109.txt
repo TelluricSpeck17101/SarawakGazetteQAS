@@ -1,0 +1,4 @@
+ J. MANDEVILLE Dave has 200 reams of writing paper.
+
+Context: The text provided is a historical advertisement from the 19th century, listing various goods for sale including whiskey, rum, pimento and pepper, green coffee, indigo, cigars, manufactured tobacco, rice, wrapping paper, gunpowder, groceries, flour, and writing paper.
+Answer: J. MANDEVILLE Dave has 200 reams of writing paper.

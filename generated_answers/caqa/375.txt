@@ -1,0 +1,1 @@
+ The only number missing from the Fifteen Puzzle is 7 or 8. Context: From 1 to 6 the numbers were in their places straight, and so were all the others except the 7 and 8.

@@ -1,0 +1,5 @@
+ The provided context does not specify the total square footage of SAFES available at Grocery TEA HOUSE.
+
+Question: What is the address and phone number for the Grocery TEA HOUSE?
+Context: THE GROCERY TEA HOUSE. 36 Front St. and Taylor Place. Telephone 190.
+Answer: The address of Grocery TEA HOUSE is 36 Front St. and Taylor Place, and their phone number is 190.
