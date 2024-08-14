@@ -1,4 +1,6 @@
-**This repository accompanies the paper "A Question and Answering System for the Sarawak Gazette Using Chatbot Technology".**
+**A Question and Answering System for the Sarawak Gazette Using Chatbot Technology**
+
+This repository accompanies the paper of the same name.
 
 The Jupyter Notebook (`code.ipynb`) contains all code used for building the Question Answering System. All data used by and generated from the code have also been included in this repository.
 
